@@ -1,0 +1,19 @@
+.pictures{
+    width: 226px;
+    height : 170px;
+    padding: 10px;
+  }
+.maindiv{
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    position: relative;
+}
+ .subdiv{
+    border: 1px solid #dee1e6;
+    min-height: 250px;
+ }
+ /* .subdiv :hover{
+    border: 1px solid black;
+   
+ } */
